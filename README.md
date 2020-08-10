@@ -1,3 +1,18 @@
+
+commands for install update download and run projects team
+(have 6 projects -dt<i> i is anumber project eg. dt1)
+npm run dt - download teams projects from git
+npm run dt<i> - download specific team 1 project 
+npm run ita - install team all project (work only after download)
+npm run it<i> - install team 1 project
+npm run dia - download and install all project 
+npm run di<i> - download and install team 1 project
+npm run uta - update team all project from git 
+npm run ut<i> - update team1 project from team
+npm run rt<i> - local host run project team
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
