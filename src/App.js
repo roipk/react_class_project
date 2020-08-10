@@ -4,6 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="app bg-dark">
+        <div className='project"' >
           <div className="container pt-5 pb-5">
               <div className="row text-center">
                   <div className="Card col-xl-3 col-lg-3 col-md-3 col-sm-3 col-xs-12">
@@ -15,6 +16,7 @@ function App() {
                         <div> רועי סולימני </div>
                         <div> תהילה כהן </div>
                         <div> לואיי ג'אבר </div>
+
                         <div><a href="https://movie-list-88522.web.app/"> מעבר לפרוייקט הקבוצה </a></div>
                         <div><a href="https://github.com/bashbash96/movies-list" target="_blank">מעבר לגיט הקבוצה</a></div>
                     </div>
@@ -81,6 +83,7 @@ function App() {
                         </div>
                     </div>
                   </div>
+        </div>
     </div>
   );
 }
